@@ -2,7 +2,6 @@
 
 > **Hinweis zur Übersetzung:** Dieses Dokument ist die deutsche Übersetzung des französischen Originals [`traversal-rules.md`](../traversal-rules.md). **Maßgeblich ist die französische Fassung**: Bei Abweichungen oder Auslegungsfragen geht sie dieser Übersetzung vor.
 >
-> **Version:** 2 — 8. November 2026 (berücksichtigt die Entscheidungen aus dem Register `points-bloquants-traversal.md`).
 > **Geltungsbereich:** ausschließlich die Spielregeln (das Turnierreglement — Paarungen, Zeitplan, Schiedsrichterwesen usw. — wird gesondert behandelt).
 > **Konvention:** Mit **⏳ [PB-xx]** gekennzeichnete Stellen verweisen auf einen noch offenen Punkt des Registers.
 > Die Bezeichnung „Spieler“ gilt für Personen jeden Geschlechts.

@@ -1,6 +1,5 @@
 # Traversal — Règles du jeu (référence tournoi)
 
-> **Version :** 2 — 8 novembre 2026 (intègre les décisions du registre `points-bloquants-traversal.md`).
 > **Périmètre :** règles du jeu uniquement (le règlement du tournoi : appariements, cadences, arbitrage, etc. est traité à part).
 > **Convention :** les passages marqués **⏳ [PB-xx]** renvoient à un point encore ouvert du registre.
 

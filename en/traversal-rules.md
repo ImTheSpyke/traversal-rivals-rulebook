@@ -2,7 +2,6 @@
 
 > **Translation notice:** this document is the English translation of the French original, [`traversal-rules.md`](../traversal-rules.md). **The French version is authoritative**: in the event of any discrepancy or question of interpretation, it prevails over this translation.
 >
-> **Version:** 2 — 8 November 2026 (incorporates the decisions of the `points-bloquants-traversal.md` issue register).
 > **Scope:** game rules only (the tournament rules — pairings, timings, refereeing, etc. — are covered separately).
 > **Convention:** passages marked **⏳ [PB-xx]** refer to an item still open in the register.
 
